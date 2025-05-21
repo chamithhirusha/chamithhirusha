@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="[https://github.com/chamithhirusha/chamithhirusha/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://github.com/chamithhirusha/chamithhirusha/blob/b5b00114531b49fcb0d35edccd71ba9d1dc4cf7c/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)" alt="Coding Banner" width="720" />
+  <img src="./232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Coding Banner" width="720" />
 </p>
 
 # 👋 Hey, I'm **Chamith Hirusha**
@@ -21,23 +21,15 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="90" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="80" height="50" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" /> &nbsp;
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /> &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968576.png" alt="Jenkins" width="50" height="50" /> &nbsp;
-
-<br><br>
-
 <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" width="50" height="50" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="60" height="50" />
 
