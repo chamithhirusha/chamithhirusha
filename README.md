@@ -48,20 +48,11 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 <p align="center">
 
-<a href="mailto:chamith.hirusha@example.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:chamithhirusha99@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
 </a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/chamithhirusha" target="_blank" rel="noopener noreferrer">
+<a href="www.linkedin.com/in/chamithhirusha" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/chamithhirusha" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
 </a>
 
 </p>
-
----
-
-<footer align="center">
-  <sub>Made with ❤️ by Chamith Hirusha</sub>
-</footer>
