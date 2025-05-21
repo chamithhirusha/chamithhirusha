@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/242845/screenshots/15781496/media/ba38a9e395678bb019d1b30cce19a78f.png" alt="Coding Banner" width="720" />
+  <img src="https://github.com/chamithhirusha/chamithhirusha/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Coding Banner" width="720" />
 </p>
 
 # 👋 Hey, I'm **Chamith Hirusha**
