@@ -21,7 +21,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="80" height="50" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/nestjs/art/master/logo/logo-shadow.png" alt="NestJS" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" /> &nbsp;
@@ -35,8 +35,8 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamithHirusha&show_icons=true&theme=radical" alt="GitHub Stats" width="460" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamithHirusha&theme=radical" alt="GitHub Streak" width="460" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamithhirusha&show_icons=true&theme=radical" alt="GitHub Stats" width="460" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamithhirusha&theme=radical" alt="GitHub Streak" width="460" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChamithHirusha&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chamithhirusha&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 <a href="https://linkedin.com/in/chamithhirusha" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/ChamithHirusha" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/chamithhirusha" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
 </a>
 
