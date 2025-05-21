@@ -1,55 +1,70 @@
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header Image" />
+  <img src="https://cdn.dribbble.com/users/242845/screenshots/15781496/media/ba38a9e395678bb019d1b30cce19a78f.png" alt="Coding Banner" width="720" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Chamith Hirusha</h1>
-<h3 align="center">Full Stack Web Developer | Undergraduate at University of Moratuwa</h3>
+# 👋 Hey, I'm **Chamith Hirusha**
+
+### 🌐 Full Stack Web Developer | University of Moratuwa Undergraduate
+
+---
+
+## 🚀 About Me
+
+I'm a passionate Full Stack Developer with expertise in building scalable and efficient web applications. I work with modern technologies like React, Next.js, NestJS, Spring Boot, and databases such as MongoDB and MySQL. Always eager to learn and grow, I enjoy solving complex problems and crafting user-friendly digital experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="80" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+
+</div>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=FFFFFF&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Chamith+Hirusha!" alt="Chamith Hirusha" />
-  </a>
-</p>
-
----
-
-### About Me
-
-I’m Chamith Hirusha, a passionate Full Stack Web Developer and an undergraduate at the University of Moratuwa. I specialize in building scalable and efficient web applications using modern technologies like React, Next.js, NestJS, and Spring Boot. Continuously learning and evolving, I enjoy tackling complex problems and creating clean, user-friendly solutions.
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="NestJS" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SpringBoot.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50"/>
-</p>
-
----
-
-### 📫 Get in Touch
-
-- Email: `chamith.hirusha@example.com`  
-- LinkedIn: [linkedin.com/in/chamithhirusha](https://linkedin.com/in/chamithhirusha)  
-- GitHub: [github.com/ChamithHirusha](https://github.com/ChamithHirusha)  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamithHirusha&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamithHirusha&show_icons=true&theme=radical" alt="GitHub Stats" width="460" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamithHirusha&theme=radical" alt="GitHub Streak" width="460" />
 </p>
 
 ---
 
+## 📫 Connect with Me
+
 <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+
+<a href="mailto:chamith.hirusha@example.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
+</a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/chamithhirusha" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+</a> &nbsp;&nbsp;
+<a href="https://github.com/ChamithHirusha" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
+</a>
+
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+<footer align="center">
+  <sub>Made with ❤️ by Chamith Hirusha</sub>
+</footer>
