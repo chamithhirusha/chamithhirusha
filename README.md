@@ -41,6 +41,14 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChamithHirusha&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -55,12 +63,6 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
 </a>
 
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
