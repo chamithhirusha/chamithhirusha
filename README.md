@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/chamithhirusha/chamithhirusha/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Coding Banner" width="720" />
+  <img src="[https://github.com/chamithhirusha/chamithhirusha/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://github.com/chamithhirusha/chamithhirusha/blob/b5b00114531b49fcb0d35edccd71ba9d1dc4cf7c/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)" alt="Coding Banner" width="720" />
 </p>
 
 # 👋 Hey, I'm **Chamith Hirusha**
