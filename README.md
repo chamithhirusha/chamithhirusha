@@ -21,12 +21,19 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="80" height="50" /> &nbsp;
-<img src="https://raw.githubusercontent.com/nestjs/art/master/logo/logo-shadow.png" alt="NestJS" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /> &nbsp;
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" /> &nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/postman-4-569305.png" alt="Postman" width="50" height="50" />
 
 </div>
 
@@ -36,15 +43,6 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chamithhirusha&show_icons=true&theme=radical" alt="GitHub Stats" width="460" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamithhirusha&theme=radical" alt="GitHub Streak" width="460" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamithhirusha&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
