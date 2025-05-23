@@ -3,7 +3,10 @@
   <img src="./232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="Coding Banner" width="100%" />
 </p>
 
-# 👋 Hey, I'm **Chamith Hirusha**
+<!-- Animated Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=800&vCenter=true&width=1000&lines=Hi👋+;I'm%2CChamith+Hirusha" alt="Typing SVG">
+</p>
 
 ### 🌐 Full Stack Web Developer | University of Moratuwa Undergraduate
 
@@ -17,7 +20,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="75" height="75" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="75" height="75" /> &nbsp;
@@ -38,7 +41,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=chamithhirusha&show_icons=true&theme=radical" alt="GitHub Stats" width="460" />
 </p>
 
@@ -46,12 +49,12 @@ I'm a passionate Full Stack Developer with expertise in building scalable and ef
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p>
 
 <a href="mailto:chamithhirusha99@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" />
 </a> &nbsp;&nbsp;
-<a href="www.linkedin.com/in/chamithhirusha" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/chamithhirusha" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
 </a>
 
