@@ -109,18 +109,6 @@
   </a>
 </p>
 
-<h3 align="left">Soft Skills:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Team%20Player-brightgreen?style=for-the-badge" alt="Team Player" />
-  <img src="https://img.shields.io/badge/Communication-blue?style=for-the-badge" alt="Communication" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-orange?style=for-the-badge" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/Adaptability-purple?style=for-the-badge" alt="Adaptability" />
-  <img src="https://img.shields.io/badge/Time%20Management-yellow?style=for-the-badge" alt="Time Management" />
-  <img src="https://img.shields.io/badge/Creativity-pink?style=for-the-badge" alt="Creativity" />
-  <img src="https://img.shields.io/badge/Attention%20to%20Detail-lightgrey?style=for-the-badge" alt="Attention to Detail" />
-  <img src="https://img.shields.io/badge/Critical%20Thinking-success?style=for-the-badge" alt="Critical Thinking" />
-</p>
-
 <p align="center">
   <img src="./battle.gif" alt="battle" width="300" />
 </p>
