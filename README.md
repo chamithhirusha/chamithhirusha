@@ -9,9 +9,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning *Flutter and NestJS*
+- 🌱 I’m currently learning *React Native*
 
-- 💬 Ask me about *React, NextJS and NodeJS*
+- 💬 Ask me about *React, NextJS, NodeJS andd all UI/UX related things*
 
 - 📫 How to reach me *chamithhirusha99@gmail.com*
 
