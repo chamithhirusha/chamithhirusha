@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning *React Native*
 
-- 💬 Ask me about *React, NextJS, NodeJS andd all UI/UX related things*
+- 💬 Ask me about *React, NextJS, NodeJS and all UI/UX related things*
 
 - 📫 How to reach me *chamithhirusha99@gmail.com*
 
